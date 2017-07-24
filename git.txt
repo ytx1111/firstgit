@@ -1,1 +1,2 @@
 learning git
+now we edit git.txt.
