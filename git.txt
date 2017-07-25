@@ -4,4 +4,8 @@ now we edit again.
 now we try again.
 supid
 changing to stupid
-now we try branch then what.
+<<<<<<< HEAD
+now we try branch and what's this.
+=======
+now we try branch and what's this.
+>>>>>>> f1
