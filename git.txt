@@ -3,3 +3,4 @@ now we edit git.txt.
 now we edit again.
 now we try again.
 supid
+changing to stupid
