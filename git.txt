@@ -9,3 +9,4 @@ now we try branch and what's this.
 =======
 now we try branch and what's this.
 >>>>>>> f1
+hi
